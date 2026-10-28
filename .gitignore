@@ -1,0 +1,18 @@
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
+
+# Dependencias y builds
+node_modules/
+*.map
+*.log
+
+# Secretos / config local
+.env
+.env.*
+*.pem
+*.key
+auth.json
