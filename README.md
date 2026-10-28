@@ -53,6 +53,12 @@ Usa la librería oficial de Google [web-vitals](https://github.com/GoogleChrome/
 
 ## 3. Opciones del plugin
 
+Todas las opciones están en **Ajustes > RUM Data**:
+
+![Ajustes de RUM Data: general y Google Analytics 4 / Tag Manager](docs/ajustes-1.jpg)
+
+![Ajustes de RUM Data: métricas y configuración necesaria en GA4](docs/ajustes-2.jpg)
+
 | Opción | Para qué sirve | Recomendado |
 |---|---|---|
 | Activar medición | Enciende/apaga todo | ✅ |
